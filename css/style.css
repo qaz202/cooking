@@ -1,0 +1,28 @@
+.card {
+    font-family: 微軟正黑體;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, .2);
+    line-height: 30px;
+    padding: 0px;
+}
+.word {
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: white;
+}
+h4 {
+    color: tomato;
+    font-size: 20px;
+    font-weight: bolder;
+}
+button {
+    background-color: tomato;
+    border: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}
